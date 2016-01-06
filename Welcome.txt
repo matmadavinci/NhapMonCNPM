@@ -1,0 +1,5 @@
+﻿Xây dựng hệ thống máy rút tiền ATM
+1. Lập dự án
+2. Tìm hiểu và phân tích yêu cầu
+3. Phân tích thiết kế hệ thống
+4. Kiểm thử
